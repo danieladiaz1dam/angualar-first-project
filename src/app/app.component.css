@@ -34,6 +34,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.gradient-text {
+  background: url("https://as2.ftcdn.net/v2/jpg/00/99/96/35/1000_F_99963543_H9lwU4ApldLYNs5cIfoCXOi0kHx5mfCt.jpg");
+  background-clip: text;
+  color: transparent;
+  font-weight: bolder;
+}
+
 h1 {
   font-size: 3.125rem;
   color: var(--gray-900);
