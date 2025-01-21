@@ -11,4 +11,7 @@ import {FormsModule} from '@angular/forms';
 })
 export class FormularioPersonaComponent {
 
+  saludar() {
+    alert("Hola mi niña");
+  }
 }

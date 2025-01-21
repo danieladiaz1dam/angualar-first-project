@@ -53,6 +53,16 @@ h1 {
   "Segoe UI Symbol";
 }
 
+a {
+  margin: 10px;
+  padding: 10px;
+  background: var(--red-to-pink-to-purple-horizontal-gradient);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
 p {
   margin: 0;
   color: var(--gray-700);
